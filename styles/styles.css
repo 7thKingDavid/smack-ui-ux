@@ -507,6 +507,9 @@ img {
   .foot-logo {
     margin-left: 0;
   }
+  .dis, .fourth {
+    margin-top: -55px;
+  }
 }
 
 
